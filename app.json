@@ -13,26 +13,26 @@
      }, 
     "UUID": {
        "description": "Vmess协议默认UUID，请输入自己的UUID",
-       "value": "4890bd47-5180-4b1c-9a5d-3ef686543112"
+       "value": "ef5be59b-21a4-4ca0-8917-463b70fb2705"
      },
     "AlterID": {
        "description": "AlterID大小，推荐10，数值越大内存占用越高",
-       "value": "10"
+       "value": "64"
      }, 
     "V2_Path": {
        "description": "Path路径，默认/FreeApp",
-       "value": "/FreeApp"
+       “价值”：“/Service”
      },
     "V2_QR_Path": {
        "description": "二维码和订阅地址路径，默认1234。如AppName变量为no，此变量没有作用",
-       "value": "1234"
+       "value": "159"
      },   
     "V2RAY_RAY_BUFFER_SIZE": {
        "description": "每个连接的缓存大小，单位MB，默认10。如果感觉有断流现象，请考虑将缓存改成1",
        "value": "10"
      }
   },
-  "website": "https://github.com/ki8852/v2ray-heroku-undone",
-  "repository": "https://github.com/ki8852/v2ray-heroku-undone",
+  "website": "https://github.com/xiaobangs/HerokuV2ray",
+  "repository": "https://github.com/xiaobangs/HerokuV2ray",
   "stack": "container"
  }
