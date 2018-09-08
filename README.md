@@ -12,6 +12,7 @@
 
 4.更新 v2ray 版本，访问 https://dashboard.heroku.com/apps 选择部署好v2ray的app，如果VER变量为 latest。直接选择More --> Restart all dynos, 程序自动重启，可通过view Logs确认进度。（更新指定版本： Settings --> Reveal Config Varsapp -->VER，修改成需要的版本号，例如 3.21）
 
+
 # 参考 
 https://github.com/v2ray/v2ray-core
 
